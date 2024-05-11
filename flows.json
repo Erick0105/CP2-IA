@@ -155,7 +155,7 @@
             },
             {
                 "t": "set",
-                "p": "payload:type",
+                "p": "payload.type",
                 "pt": "msg",
                 "to": "message",
                 "tot": "str"
